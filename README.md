@@ -110,5 +110,3 @@ Open to collaboration. Fork, raise issues, or submit pull requests.
 Licensed under the MIT License.
 
 ---
-
-Do you also want me to prepare a **synthetic finance dataset (CSV/Excel)** with user profiles + product features so that your repo looks even more realistic when recruiters open it?
